@@ -1,16 +1,27 @@
-## Hi there 👋
+class HarishT:
+    def __init__(self):
+        self.name = "Harish T"
+        self.location = "Chennai, India"
+        self.degree = "B.E. Computer Science, Anna University"
+        self.role = "Certified SOC Analyst (CSA) | Aspiring Cybersecurity specialist"
 
-<!--
-**Harish-35/Harish-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.stack = [
+            "Splunk (SIEM)", "Wireshark", "OpenVAS",
+            "Nessus", "Metasploit", "Nmap", "Burp Suite"
+        ]
 
-Here are some ideas to get you started:
+        self.currently_learning = [
+            "Advanced SOC Operations",
+            "Cloud Security (AWS/Azure)",
+            "Zero Trust Architecture",
+            "Bug Bounty"
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.fun_fact = "I turn vulnerable machines into root-cause reports."
+
+    def motto(self):
+        return "Detect. Investigate. Document. Repeat."
+
+
+me = HarishT()
+print(me.motto())
