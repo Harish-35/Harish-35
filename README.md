@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Monitoring%20%7C%20Vulnerability%20Assessment%20%7C%20Security%20Documentation&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Defensive%20Security%20%7C%20Offensive%20Security%20%7C%20Security%20Documentation&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/Harish-35">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Cyber+Security+Apprentice;EC-Council+Certified+SOC+Analyst+(CSA);SOC+Monitoring+%7C+Threat+Detection+%7C+IR;Building+Zero+Trust+%26+Pentest+Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=162132&center=true&vCenter=true&width=750&lines=Aspiring+Cyber+Security+Specialist;EC-Council+Certified+SOC+Analyst+(CSA);SOC+Monitoring+%7C+Penetration+Tester+%7C+Bug+Bounty+Hunter;Building+Security+Projects+%26+Pentest+Labs" alt="Typing SVG" />
 </a>
 
 </div>
@@ -162,10 +162,10 @@ print(me.motto())
 
 | 🏅 | Achievement | Details |
 |---|---|---|
-| 🛡️ | Certified SOC Analyst (CSA) | EC-Council — Cert No. ECC3540697218 |
-| 🖥️ | Certified IT Infrastructure & Cyber SOC Analyst | RedTeam Hacker Academy — Cert No. RTXSTU1561016884 |
+| 🛡️ | Certified SOC Analyst (CSA) | EC-Council — [Cert No. ECC3540697218] |
+| 🖥️ | Certified IT Infrastructure & Cyber SOC Analyst | RedTeam Hacker Academy — [Cert No. RTXSTU1561016884] |
 | 🌐 | Networking Essentials | Cisco — foundation aligned with CCNA |
-| 🔐 | Google Cybersecurity Certification | Google — security frameworks, Python for security automation, IR fundamentals |
+| 🔐 | Google Cybersecurity Certification | Google |
 
 </div>
 
@@ -178,7 +178,8 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science | Agni College of Technology, Anna University, Chennai | 2021 – 2025 | CGPA: 7.6 |
-
+|---|---|---|---|
+| Higher Secondary | Government Higher Secondary School, Veeramangudi, Thanjavur | 2020 - 2021 | 74% Percentage |
 </div>
 
 <br/>
