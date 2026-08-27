@@ -59,14 +59,14 @@ print(me.motto())
 <p align="left">
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Suricata-EE2C2C?style=flat-square&logo=suricata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Suricata-EE2C2C?style=flat-square"/>
 </p>
 
 **Vulnerability Assessment & Pentesting**
 <p align="left">
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenVAS-4B8BBE?style=flat-square&logo=greenbone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenVAS-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
 </p>
 
@@ -74,7 +74,7 @@ print(me.motto())
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ISO%2027001-005571?style=flat-square&logo=iso&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISO%2027001-005571?style=flat-square"/>
   <img src="https://img.shields.io/badge/GDPR-003399?style=flat-square&logo=europeanunion&logoColor=white"/>
 </p>
 
@@ -91,10 +91,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/Harish-35">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harish-35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://YOUR-STATS-INSTANCE.vercel.app/api?username=Harish-35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/Harish-35">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=Harish-35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -103,11 +103,11 @@ print(me.motto())
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-35&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img src="https://YOUR-ACTIVITY-INSTANCE.vercel.app/graph?username=Harish-35&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harish-35&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://YOUR-TROPHY-INSTANCE.vercel.app/?username=Harish-35&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <br/>
