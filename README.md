@@ -18,11 +18,11 @@ class HarishT:
         self.name = "Harish T"
         self.location = "Chennai, India"
         self.degree = "B.E. Computer Science, Anna University"
-        self.role = "Aspiring Cyber Security Apprentice"
+        self.role = "Aspiring Cyber Security Specialist"
 
         self.stack = [
             "Splunk (SIEM)", "Wireshark", "Suricata (IDS)",
-            "Nessus", "OpenVAS", "Nmap", "Burp Suite"
+            "Nessus", "OpenVAS", "Nmap", "Burp Suite", "Metasploit"
         ]
 
         self.currently_learning = [
