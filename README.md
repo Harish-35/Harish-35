@@ -14,7 +14,7 @@
 
 ```python
 class HarishT:
-    def _ _init_ _(self):
+    def __init__(self):
         self.name = "Harish T"
         self.location = "Chennai, India"
         self.degree = "B.E. Computer Science, Anna University"
