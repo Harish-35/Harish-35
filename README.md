@@ -14,7 +14,7 @@
 harish@security:~$ cat about_me.txt
 ```
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/Harish-35/Harish-35/main/radar-scanner.svg"/>
+<img align="right" width="380" src="F:\Harish\radar-scanner.svg"/>
 
 
 ```python
