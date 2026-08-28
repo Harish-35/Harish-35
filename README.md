@@ -14,17 +14,20 @@
 harish@security:~$ cat about_me.txt
 ```
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/Harish-35/Harish-35/main/radar-scanner.svg"/>
+
+
 ```python
 class HarishT:
     def __init__(self):
         self.name           = "Harish T"
         self.location       = "Chennai, India"
         self.degree         = "B.E. Computer Science, Anna University"
-        self.role           = "Aspiring Cyber Security Apprentice"
+        self.role           = "Aspiring Cyber Security Specialist"
 
         self.stack = [
             "Splunk (SIEM)", "Wireshark", "Suricata (IDS)",
-            "Nessus", "OpenVAS", "Nmap", "Burp Suite"
+            "Nessus", "OpenVAS", "Nmap", "Burp Suite", "Metasploit"
         ]
 
         self.currently_learning = [
@@ -181,6 +184,7 @@ Detect. Investigate. Document. Repeat.
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science | Agni College of Technology, Anna University, Chennai | 2021 – 2025 | CGPA: 7.6 |
+| Higher Secondary | Government Higher Secondary School, Veeramangudi, Thanjavur | 2020 - 2021 | Percentage: 74% |
 
 </div>
 
