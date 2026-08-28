@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Harish%20T&fontSize=42&fontColor=00FF41&animation=twinkling&fontAlignY=32&desc=SOC%20Monitoring%20%7C%20Vulnerability%20Assessment%20%7C%20Security%20Documentation&descAlignY=62&descSize=15&descColor=00CC33" width="100%"/>
 
 <a href="https://github.com/Harish-35">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=root%40harish-35%3A~%23+whoami;Aspiring+Cyber+Security+Apprentice;EC-Council+Certified+SOC+Analyst+(CSA);SOC+Monitoring+%7C+Threat+Detection+%7C+IR;access_granted..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=root%40harish-35%3A~%23+whoami;Aspiring+Cyber+Security+Specialist;EC-Council+Certified+SOC+Analyst+(CSA);SOC+Monitoring+%7C+Threat+Detection+%7C+IR;access_granted..." alt="Typing SVG" />
 </a>
 
 </div>
