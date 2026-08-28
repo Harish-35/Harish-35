@@ -15,7 +15,7 @@ harish@security:~$ cat about_me.txt
 ```
 
 <img align="right" width="380" src="F:\Harish\radar-scanner.svg"/>
-<img width="480" height="480" alt="radar-scanner" src="https://github.com/user-attachments/assets/0cce5ce8-f6d8-404f-b608-775d2d813971" />
+<img align="right" width="480" height="480" alt="radar-scanner" src="https://github.com/user-attachments/assets/0cce5ce8-f6d8-404f-b608-775d2d813971" />
 
 
 
